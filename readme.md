@@ -9,3 +9,6 @@ Features:
 * Add play and pause functionality
 * Switch songs
 * Progress bar
+
+
+![](player.png)
